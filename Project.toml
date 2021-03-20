@@ -2,3 +2,6 @@ name = "Breakage"
 uuid = "1f24f8a4-8b83-45b5-b25b-66d4c55f77a4"
 authors = ["Abel Soares Siqueira <abel.s.siqueira@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
